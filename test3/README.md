@@ -10,6 +10,7 @@ api.py 파일에서 사용하며 pip3로 설치하기 위해 필요한 라이브
 - PIL은 pillow로 대신 설치
 
 - time,io는 파이썬에 이미 내장되어 있고 fastai.vision도 fastai에 포함되어 있어 따로 설치x
++)추후 최종에서 테스트 한 결과 Flask, flask_restful, aiohttp, fastai만 설치하면 된다.
 
 **api.py, picture.py, status.py**
 dockerfile에서 api.py 파일 실행. 해당 organization의  PracticeFlaskRESTful/model_inference_restful 폴더 파일과 동일.api.py만 일부 수정
