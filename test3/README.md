@@ -28,4 +28,5 @@ $ docker run -d -p 5000:5000 flask-restful_rerere
 안드로이드의 에뮬레이터에 사자 사진을 저장하고 해당 사진을 플라스크 서버로 보내면 화면에 lion이라고 뜬다. 해당 안드로이드 프로젝트는 psystar99/Docker_test 리포지토리에 있다.
 ![스크린샷 2020-08-09 오후 10 41 48](https://user-images.githubusercontent.com/40908279/89733606-841fa180-da91-11ea-86da-26828764c437.png)
 
+안드로이드 코드: https://github.com/Psystar99/Docker_test
 * * *
