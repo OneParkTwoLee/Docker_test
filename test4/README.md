@@ -5,6 +5,4 @@
 
 해당 폴더로 빌드한 이미지의 크기는 3.18GB.
 
-해당 문서에서에서 자세한 내용 참고: 
-
-[일박이이_Flagly](https://www.flagly.org/course/section/1804/) 
+다음 문서에서에서 자세한 내용 참고: [일박이이_Flagly](https://www.flagly.org/course/section/1804/) 
